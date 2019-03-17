@@ -1,9 +1,9 @@
 ## End points
 * http://localhost:8080/getPersons
 * http://localhost:8080/getPerson/{id} 
-* http://localhost:8080/getPersons
+* http://localhost:8080/addPerson
 
-    ### request body
+    ### request body for add person
 
     ```
     {
